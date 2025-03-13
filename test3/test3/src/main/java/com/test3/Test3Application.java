@@ -8,6 +8,8 @@ public class Test3Application {
 
 	public static void main(String[] args) {
 		int x=100;
+		String x="mike";
+		boolean ispresent=false;
 		SpringApplication.run(Test3Application.class, args);
 	}
 
