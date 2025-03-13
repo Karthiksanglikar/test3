@@ -9,7 +9,7 @@ public class Test3Application {
 	public static void main(String[] args) {
 		int x=10;
 		String y="mike";
-		boolean z=10.3;
+		double z=10.3;
 		SpringApplication.run(Test3Application.class, args);
 	}
 
